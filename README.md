@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/thanhhuy5902?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thanhhuy5902" />
 </a>
 <a href="https://github.com/thanhhuy5902?tab=repositories">
