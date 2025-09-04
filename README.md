@@ -2,7 +2,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thanhhuy5902" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/thanhhuy5902?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhhuy5902&layout=compact&langs_count=8&card_width=320" />
 </a>
 <!--
@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Mikademy
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
